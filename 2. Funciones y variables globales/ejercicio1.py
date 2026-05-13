@@ -24,4 +24,5 @@ print("1. Hallar el area del cuadrado\n2. Hallar el area del rectangulo\n3. Hall
 opcion = input("Digite la opcion del area que desa hallar: ")
 
 if opcion == 1:
+    print("Hola")
     
