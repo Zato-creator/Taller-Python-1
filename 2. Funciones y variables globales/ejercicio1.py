@@ -25,4 +25,4 @@ opcion = input("Digite la opcion del area que desa hallar: ")
 
 if opcion == 1:
     print("Hola")
-    
+    print("Adios")
