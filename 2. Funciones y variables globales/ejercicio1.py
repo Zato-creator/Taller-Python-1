@@ -55,5 +55,3 @@ while True:
     elif opcion == 5:
         print("Gracias por usar nuestros servicios, ¡feliz día!")
         break
-
-    print("PG")
